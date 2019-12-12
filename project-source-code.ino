@@ -1,19 +1,5 @@
-/* 
- * Mert Arduino and Tech - YouTube
- * WiFi Robot controlled by Phone (WiFibot/Android/IoT/ESP8266)
- * NodeMCU ESP8266 Tutorial 03
- * Please Subscribe for Support - https://goo.gl/RLT6DT
- */
-
-
 /* include library */
 #include <ESP8266WiFi.h>
-
-/*
- * If you have no idea about this library, you can watch the tutorial below
- * NodeMCU ESP8266 Tutorial 01: Programming NodeMCU ESP-12E Using Arduino IDE
- * https://youtu.be/NtyFx1frYB0
- */
 
 /* define port */
 WiFiClient client;
